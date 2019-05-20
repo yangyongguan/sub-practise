@@ -1,5 +1,5 @@
 import sum from '../../code/array/sum'
 
 test('test--sum: ', () => {
-    expect(sum(1, 5)).toBe(6)
+  expect(sum(1, 5)).toBe(6)
 })
